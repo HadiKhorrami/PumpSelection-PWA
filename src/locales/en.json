@@ -1,0 +1,43 @@
+{
+  "Main": {
+    "ListOfPumpTypeFilter": "List Of Pump Type",
+    "SearchPump": "Search Pump",
+    "Search": "Search"
+  },
+  "Pumps": {
+    "BEPFlow": "BEP Flow",
+    "ShutOffHead": "Shut-off Head(m)",
+    "LiquidTemperature": "Liquid Temperature",
+    "BEPPower": "BEP Power"
+  },
+  "SearchPump": {
+    "PumpType": "Pump Type",
+    "LiquidName": "Liquid Name",
+    "SelectionRange": "Selection Range",
+    "Capacity": "Capacity",
+    "Height": "Height",
+    "RatedSpeed": "Rated Speed",
+    "Search": "Search",
+    "EmptyError": "Please enter",
+    "NoPumpFound": "No Pump Found"
+  },
+  "PumpDetail": {
+    "Menu": {
+      "Density": "Density",
+      "PointType": "Point Type",
+      "RatedSpeed": "Rated Speed",
+      "Capacity": "Capacity",
+      "Height": "Height"
+    },
+    "Table": {
+      "PumpName": "Pump Name",
+      "MaxDiameter": "Max Diameter",
+      "MinDiameter": "Min Diameter",
+      "RatedSpeed": "Rated Speed",
+      "Density": "Density",
+      "LiquidName": "Liquid Name",
+      "Viscosity": "Viscosity",
+      "Actions": "Actions"
+    }
+  }
+}
